@@ -3,22 +3,26 @@
     {
       "id": "aurora-clicker",
       "name": "Aurora Clicker",
-      "description": "A pretty auto clicker. Hotkey F6 to start and stop.",
       "version": "1.0.0",
-      "icon": "https://github.com/AlvaroWRP/aurora-hub-releases/releases/download/v1.0.0/aurora-clicker.png",
+      "icon": "https://github.com/AlvaroWRP/aurora-hub-releases/releases/download/v1.1.0/aurora-clicker.png",
       "files": {
-        "win-x64": { "url": "https://github.com/AlvaroWRP/aurora-hub-releases/releases/download/v1.0.0/AuroraClicker-1.0.0-win-x64.exe", "name": "AuroraClicker.exe", "sha256": "A7857ED7D75145446AB1FE089BF5004607A30231CEDA5E155A0680AA343AFE68", "size": 21831819 }
+        "win-x64": { "url": "https://github.com/AlvaroWRP/aurora-hub-releases/releases/download/v1.1.0/AuroraClicker-1.0.0-win-x64.exe", "name": "AuroraClicker.exe", "sha256": "898AF54DED76C7F96F40BF62C23C43E24983CEAC9AE04F256E312D8DEA762281", "size": 21831819 }
       }
     },
     {
       "id": "aurora-alarm",
       "name": "Aurora Alarm",
-      "description": "An alarm for a time of day. Waits in the tray.",
       "version": "1.0.0",
-      "icon": "https://github.com/AlvaroWRP/aurora-hub-releases/releases/download/v1.0.0/aurora-alarm.png",
+      "icon": "https://github.com/AlvaroWRP/aurora-hub-releases/releases/download/v1.1.0/aurora-alarm.png",
       "files": {
-        "win-x64": { "url": "https://github.com/AlvaroWRP/aurora-hub-releases/releases/download/v1.0.0/AuroraAlarm-1.0.0-win-x64.exe", "name": "AuroraAlarm.exe", "sha256": "3275EA4D5065394D44C0971CBAFFA779D566B18E5D3F7E3DDB17F7A469C4CE76", "size": 22588285 }
+        "win-x64": { "url": "https://github.com/AlvaroWRP/aurora-hub-releases/releases/download/v1.1.0/AuroraAlarm-1.0.0-win-x64.exe", "name": "AuroraAlarm.exe", "sha256": "80DC922F3EC53D083F7FB7053F0BD239DA19F147DAD9748FD4026F367E5E9413", "size": 22588285 }
       }
     }
-  ]
+  ],
+  "hub": {
+    "version": "1.1.0",
+    "files": {
+      "win-x64": { "url": "https://github.com/AlvaroWRP/aurora-hub-releases/releases/download/v1.1.0/AuroraHub-Setup.exe", "name": "AuroraHub-Setup.exe", "sha256": "EB7F43D0D96D2360D78C2AB1273323B1BDF4014604C7504CA0314C5F58CA7782", "size": 22244920 }
+    }
+  }
 }
