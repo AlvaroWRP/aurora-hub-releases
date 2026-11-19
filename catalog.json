@@ -3,26 +3,26 @@
     {
       "id": "aurora-clicker",
       "name": "Aurora Clicker",
-      "version": "1.0.0",
-      "icon": "https://github.com/AlvaroWRP/aurora-hub-releases/releases/download/v1.1.0/aurora-clicker.png",
+      "version": "1.1.0",
+      "icon": "https://github.com/AlvaroWRP/aurora-hub-releases/releases/download/v1.2.0/aurora-clicker.png",
       "files": {
-        "win-x64": { "url": "https://github.com/AlvaroWRP/aurora-hub-releases/releases/download/v1.1.0/AuroraClicker-1.0.0-win-x64.exe", "name": "AuroraClicker.exe", "sha256": "898AF54DED76C7F96F40BF62C23C43E24983CEAC9AE04F256E312D8DEA762281", "size": 21831819 }
+        "win-x64": { "url": "https://github.com/AlvaroWRP/aurora-hub-releases/releases/download/v1.2.0/AuroraClicker-1.1.0-win-x64.exe", "name": "AuroraClicker.exe", "sha256": "598335C2E6DA1C08BB4987773BFF997D8C0B3E0B561C46B4DFD61283C8215FC4", "size": 21847691 }
       }
     },
     {
       "id": "aurora-alarm",
       "name": "Aurora Alarm",
-      "version": "1.0.0",
-      "icon": "https://github.com/AlvaroWRP/aurora-hub-releases/releases/download/v1.1.0/aurora-alarm.png",
+      "version": "1.1.0",
+      "icon": "https://github.com/AlvaroWRP/aurora-hub-releases/releases/download/v1.2.0/aurora-alarm.png",
       "files": {
-        "win-x64": { "url": "https://github.com/AlvaroWRP/aurora-hub-releases/releases/download/v1.1.0/AuroraAlarm-1.0.0-win-x64.exe", "name": "AuroraAlarm.exe", "sha256": "80DC922F3EC53D083F7FB7053F0BD239DA19F147DAD9748FD4026F367E5E9413", "size": 22588285 }
+        "win-x64": { "url": "https://github.com/AlvaroWRP/aurora-hub-releases/releases/download/v1.2.0/AuroraAlarm-1.1.0-win-x64.exe", "name": "AuroraAlarm.exe", "sha256": "67B317E5791A776EF0A5C7C7EB137F4B1BD21908D18B0642419702D107CAA63D", "size": 22588285 }
       }
     }
   ],
   "hub": {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "files": {
-      "win-x64": { "url": "https://github.com/AlvaroWRP/aurora-hub-releases/releases/download/v1.1.0/AuroraHub-Setup.exe", "name": "AuroraHub-Setup.exe", "sha256": "EB7F43D0D96D2360D78C2AB1273323B1BDF4014604C7504CA0314C5F58CA7782", "size": 22244920 }
+      "win-x64": { "url": "https://github.com/AlvaroWRP/aurora-hub-releases/releases/download/v1.2.0/AuroraHub-Setup.exe", "name": "AuroraHub-Setup.exe", "sha256": "39FE09E288B8BBB262C172AB888B7FC55C9DB0AB3578E65F9E199F14A32017D9", "size": 22256595 }
     }
   }
 }
