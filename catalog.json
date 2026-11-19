@@ -1,3 +1,24 @@
 {
-  "tools": []
+  "tools": [
+    {
+      "id": "aurora-clicker",
+      "name": "Aurora Clicker",
+      "description": "A pretty auto clicker. Hotkey F6 to start and stop.",
+      "version": "1.0.0",
+      "icon": "https://github.com/AlvaroWRP/aurora-hub-releases/releases/download/v1.0.0/aurora-clicker.png",
+      "files": {
+        "win-x64": { "url": "https://github.com/AlvaroWRP/aurora-hub-releases/releases/download/v1.0.0/AuroraClicker-1.0.0-win-x64.exe", "name": "AuroraClicker.exe", "sha256": "A7857ED7D75145446AB1FE089BF5004607A30231CEDA5E155A0680AA343AFE68", "size": 21831819 }
+      }
+    },
+    {
+      "id": "aurora-alarm",
+      "name": "Aurora Alarm",
+      "description": "An alarm for a time of day. Waits in the tray.",
+      "version": "1.0.0",
+      "icon": "https://github.com/AlvaroWRP/aurora-hub-releases/releases/download/v1.0.0/aurora-alarm.png",
+      "files": {
+        "win-x64": { "url": "https://github.com/AlvaroWRP/aurora-hub-releases/releases/download/v1.0.0/AuroraAlarm-1.0.0-win-x64.exe", "name": "AuroraAlarm.exe", "sha256": "3275EA4D5065394D44C0971CBAFFA779D566B18E5D3F7E3DDB17F7A469C4CE76", "size": 22588285 }
+      }
+    }
+  ]
 }
